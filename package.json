@@ -1,0 +1,19 @@
+{
+  "name": "no_face",
+  "version": "0.0.1",
+  "description": "Dating app it has  not use user picture",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvilStorm/noFaceServer.git"
+  },
+  "author": "gevilstorm@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvilStorm/noFaceServer/issues"
+  },
+  "homepage": "https://github.com/EvilStorm/noFaceServer#readme"
+}
